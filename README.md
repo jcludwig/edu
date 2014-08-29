@@ -1,4 +1,4 @@
-edu
-===
+Educational Material
+====================
 
-Educational material
+This is a repository for personal educational material. Feel free to educate yourself!
